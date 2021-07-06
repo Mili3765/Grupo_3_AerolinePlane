@@ -6,4 +6,4 @@ Nuestro producto se  especifica en conseguir su comodidad desde la compra de los
 
 Integantes  del equipo:
 El proyecto tiene como integrante un solo  colaborador, aun asi el prestigio del producto final sera realmente quien confirme  la capacidad y el exito deseado a lo
-largo de todo el periodo  del proyecto integrados.  La colaboradora en este caso se  llama Camara Milagros, 18 años de edad, con un fuerte gusto por el aprendisaje, la musica y el diseño, implementacion en los sistemas computacionales.
+largo de todo el periodo  del proyecto integrador. La colaboradora en este caso se llama Camara Milagros, 18 años de edad, con un fuerte gusto por el aprendisaje, la musica y el diseño, implementacion en los sistemas computacionales.
